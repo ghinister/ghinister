@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ghinister but you can call me P, JUST P
-- 👀 I’m interested in Game Programming, Game Design
-- 🌱 I’m currently learning Unity, C#
+- 👋 Hi, I’m @ghinister but you can call me P
+- A Thai Programmer and Game Developer.
+- 👀 I’m interested in Game Programming, Game Design 
+- 🌱 I’m currently learning HTML5 and CSS. interested in Vue and NodeJS
 
-- 📫 How to reach me ... : Not Yet
+- 📫 You can contact me by this E-mail : peerawich.dinp@gmail.com 
 
 <!---
 ghinister/ghinister is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
